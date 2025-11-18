@@ -1,7 +1,7 @@
 # 11-18-2025-exercise
 
-x = int(input(Please type in the first number: ))
-y = int(input(Please type in the second number: ))
+x = float(input("Please type in the first number: "))
+y = float(input("Please type in the second number: "))
 
 if x > y:
     print(x," is greater than ",y)
